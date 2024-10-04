@@ -1,0 +1,46 @@
+html {
+    font-size: 11px;
+    font-family: sans-serif;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    color: transparent;
+}
+
+/* colors for different themes */
+
+body[theme="LIGHT"],
+body[theme="LIGHTGRAY"] {
+    color: black;
+}
+
+body[theme="GRAY"],
+body[theme="BLUE"],
+body[theme="PURPLE"],
+body[theme="DARK"] {
+    color: white;
+}
+
+/* button round shape that stretches to the full width of the parent */
+button {
+    display: block;
+    width: 100%;
+    height: 30px;
+    border: none
+}
+
+button[theme="LIGHT"],
+button[theme="LIGHTGRAY"] {
+    background-color: #f2f2f2;
+}
+button[theme="GRAY"],
+button[theme="BLUE"],
+button[theme="PURPLE"],
+button[theme="DARK"] {
+    background-color: #353639;
+    color: white;
+}

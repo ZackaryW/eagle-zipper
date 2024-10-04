@@ -1,0 +1,103 @@
+{
+    "id": "68bd100f-23f2-4c70-bdf4-f85eb9f1d515",
+    "version": "1.0.0",
+    "platform": "all",
+    "arch": "all",
+    "name": "zipper",
+    "logo": "/logo.png",
+    "keywords": [],
+    "devTools": true,
+    "preview": {
+        "zip": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": false
+            }
+        },
+        "pdf,docx,xlsx,pptx,txt,rtf,odt,tex,md,html": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "jpeg,png,gif,bmp,tiff,svg,webp,heic,raw,ico": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "mp3,wav,aac,flac,ogg,m4a,wma,alac,aiff,mid": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "mp4,avi,mkv,mov,wmv,flv,webm,m4v,3gp,vob": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "rar,tar,gz,7z,iso,bz2,cab,arj,lzh": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "exe,app,bin,sh,py,jar,php,rb,bat,ps1": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "csv,tsv,xls,xlt,doc,docm,xltx,odm,wpd,txt": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "mpg,mpeg,wmv,divx,xvid,avi,mp4,m4v,mkv,3gp": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "cpl,config,dll,sys,exe,com,bat,msi,reg,pif": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "html,css,js,json,xml,yaml,md,txt,php,asp,toml,yml": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "dmg,iso,bin,cue,toast,svcd,mkv,avi,mp4,mov": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        },
+        "svg,eps,ai,psd,indd,xd,sketch,fla,mp4,webp": {
+            "inspector": {
+                "path": "main.html",
+                "height": 200,
+                "multiSelect": true
+            }
+        }
+    }
+}
