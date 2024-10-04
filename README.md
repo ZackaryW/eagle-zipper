@@ -10,3 +10,6 @@ This plugin for [Eagle](https://eagle.cool) allows you to easily compress folder
 
 - Eagle version 4.0 or higher
 
+## Acknowledgments
+- [jszip](https://github.com/Stuk/jszip)
+- [Eagle](https://eagle.cool)
